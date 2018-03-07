@@ -7,9 +7,9 @@ then
 	then
 		find $1 -size -$2 > archivo.txt 
 		echo "Fichero archivo.txt creado correctamente" 
-		else
-			echo "El directorio no existe o el parametro segundo no es un entero" 
-		fi
+	else
+		echo "El directorio no existe o el parametro segundo no es un entero" 
+	fi
 else
 	echo "Numero incorrecto de parámetros"
 fi
