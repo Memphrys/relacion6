@@ -48,4 +48,4 @@ comprendido entre 1 y 99.
  Crear, en caso de no existir, el directorio dado en el primer argumento a partir del directorio donde se esté
 situado y que posea permisos de lectura y escritura para el usuario $USER.
  Dentro del directorio dado en el primer argumento, crear archivos cuyos contenidos estarán vacíos y cuyos
-nombres lo formarán el nombre dado como tercer argumento y un número que irá desde 01 hasta el número dado en el segundo argumento.
+nombres lo formarán el nombre dado como tercer argumento y un número que irá desde 01 hasta el número dado en el segundo argumento
